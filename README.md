@@ -10,6 +10,10 @@
 ## 二、设置
 > * ***由于家庭内网IPTV占用带宽流量普通高清通常约10Mbps，4K高清通常约30Mbps，对于家庭带宽通常为1000M，多设备同时观看IPTV对上网带宽的影响也很小，故本项目仅介绍单线复用。***
 
+
+<p align="center"> <b>拓扑图</b></p>
+<div align="center"> <img src="https://github.com/gog-xie/IPTV/blob/main/pic/Topology_diagram.png" width="854" heiht="480"></div>
+
 - ### 1、光猫设置
   通常建议光猫桥接，路由器拨号。
   光猫设置分为两种情况，比如华为光猫不用绑定网口均带有Internet和ITV业务数据，而中兴光猫需绑定Internet和ITV业务数据，如光猫Lan1需勾选上网和ITV业务数据，则Lan1带了两种业务数据。
