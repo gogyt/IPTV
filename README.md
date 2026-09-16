@@ -57,29 +57,29 @@
 ***
 
 ## 三、IPTV节目列表
-> #### [Github地址：](https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202512.m3u)
+> #### [Github地址：](https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/SCITV.m3u)
 
 ```
-https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202512.m3u
+https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/SCITV.m3u
 ```
 
-> #### [镜像地址1：](https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202512.m3u)
+> #### [镜像地址1：](https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/SCITV.m3u)
 
 ```
-https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202512.m3u
+https://fastly.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/SCITV.m3u
 ```
 
-> #### [镜像地址2：](https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202512.m3u)
+> #### [镜像地址2：](https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/SCITV.m3u)
 
 ```
-https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/202512.m3u
+https://cdn.jsdelivr.net/gh/gog-xie/IPTV@main/MTU_Address/SCITV.m3u
 ```
 
 
-> #### [镜像地址3：](https://gh-proxy.com/https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202512.m3u)
+> #### [镜像地址3：](https://gh-proxy.com/https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/SCITV.m3u)
 
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/202512.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/gog-xie/IPTV/refs/heads/main/MTU_Address/SCITV.m3u
 ```
 
 ***
